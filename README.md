@@ -2,7 +2,6 @@
 
 <img src="https://www.w3webschool.com/wp-content/uploads/2022/10/developer.gif" alt="youtobe" width="500px" align="right">
 
-I make videos on Youtobe about software development. <br>
 I work remotely and like to travel a lot.
 
 
