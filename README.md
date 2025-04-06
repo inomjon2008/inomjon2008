@@ -30,6 +30,12 @@ I work remotely and like to travel a lot.
 
 - 📍 &nbsp; Current location: Navoi, Uzbekiston
 - 📝 &nbsp; Ask me about anything, I am happy to help
+## 📞 Connect with Me
+
+
+- **Telegram Blog**: [Miracle Programmer](https://t.me/coder2oo)
+- **Email**: [inomjonu280@gmail.com](inomjonu280@gmail.com)
+- **Website**: [Miracle Programmer](https://ilkhomovich.netlify.app/)
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FADD92&height=120&section=footer"/>
